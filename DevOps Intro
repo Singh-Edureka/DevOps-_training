@@ -1,0 +1,33 @@
+Devops --> Devops is a software devlopment strategy, which is used to promote the collaboration between Devlopment team and operation team to achieve
+           contineous Development, Contineous Integration, Testing, Deployment and Cont monitoring in an automated way.
+		   
+Devlopment side devops role -->
+Build the code 
+Create Artifacts
+Unit Testing 
+update to testing team 
+
+Application Architecture - Monolithic Arch 
+                           Microservices 
+						  
+Waterfall Model - It uses top-down approach to devlop an aplication.
+                  It was used to build monolithic application
+				  
+Agile Methodlogy - This method used to devlop each function of an application independentaly which make more agile the devlopment process.
+ 
+Monitoring --> Infa-Monitoring Tools -  Grafan/Promethus
+
+               Application-Monitoring Tools - AppDynamics/Datadog
+ Teams are part of Software Development -
+ Infrastructure Mang Team
+ Application Devlopment Team
+ Testing Team
+ Release Mang Team
+ Production Support Team
+ IT Security team
+
+Environments - Non-Production Env - Dev Env, Build/Stageing Env, Test Env like QA and UAT
+               Production - Production Env
+Contineous Delivery and Contineous Deployment are two different approach used to live an application in Production
+Cont Delivery requires manual intervention to go live in production while Cont Deployment automatically push the changes into production without
+manual intervention.
